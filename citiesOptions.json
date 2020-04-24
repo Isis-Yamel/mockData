@@ -1,15 +1,15 @@
 {
     "data": [
         {
-            "cityName": "Bogotá",
+            "city": "Bogotá",
             "id": 1
         },
         {
-            "cityName": "Berlin",
+            "city": "Berlin",
             "id": 2
         },
         {
-            "cityName": "Oslo",
+            "city": "Oslo",
             "id": 3
         }
     ]
